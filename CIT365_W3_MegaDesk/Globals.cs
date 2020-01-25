@@ -50,10 +50,10 @@ namespace CIT365_W3_MegaDesk
 
             //Initialize the SurfaceMaterials structure with values
             surfaceMaterials.Add(new SurfaceMaterials { id = 0, description = "oak", cost = 200 });
-            surfaceMaterials.Add(new SurfaceMaterials { id = 0, description = "laminate", cost = 100 });
-            surfaceMaterials.Add(new SurfaceMaterials { id = 0, description = "pine", cost = 50 });
-            surfaceMaterials.Add(new SurfaceMaterials { id = 0, description = "rosewood", cost = 300 });
-            surfaceMaterials.Add(new SurfaceMaterials { id = 0, description = "veneer", cost = 125 });
+            surfaceMaterials.Add(new SurfaceMaterials { id = 1, description = "laminate", cost = 100 });
+            surfaceMaterials.Add(new SurfaceMaterials { id = 2, description = "pine", cost = 50 });
+            surfaceMaterials.Add(new SurfaceMaterials { id = 3, description = "rosewood", cost = 300 });
+            surfaceMaterials.Add(new SurfaceMaterials { id = 4, description = "veneer", cost = 125 });
         }
 
     }
